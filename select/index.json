@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SAKURAドロップス",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2026-02-22T12:32:01.758918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_SAKURAドロップス_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_SAKURAドロップス_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_SAKURAドロップス_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/04_SAKURAドロップス_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/05_SAKURAドロップス_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SAKURAドロップス-Original Karaoke-",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/06_SAKURAドロップス-Original_Karaoke-_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/07_SAKURAドロップス_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sakuraドロップス",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/08_Sakuraドロップス_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_SAKURAドロップス_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/10_SAKURAドロップス_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/11_SAKURAドロップス_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/12_SAKURAドロップス_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SAKURAドロップス",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/13_SAKURAドロップス_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SAKURAドロップス (2024 Mix)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/14_SAKURAドロップス_(2024_Mix)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SAKURAドロップス (2024 Mix) - SAKURA Drops (2024 Mix)",
+      "artist": "宇多田ヒカル - Hikaru Utada",
+      "has_synced": true,
+      "path": "select/15_SAKURAドロップス_(2024_Mix)_-_SAKURA_Drops_(2024_Mix)_宇多田ヒカル_-_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sakura Drops (SAKURAドロップス Sakura Doroppusu)",
+      "artist": "Utada Hikaru",
+      "has_synced": false,
+      "path": "select/16_Sakura_Drops_(SAKURAドロップス_Sakura_Doroppusu)_Utada_Hikaru.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sakuraドロップス",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/17_Sakuraドロップス_宇多田光.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAKURAドロップス",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_SAKURAドロップス_宇多田_ヒカル.txt"
+    }
+  ]
+}
